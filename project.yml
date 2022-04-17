@@ -1,5 +1,3 @@
-environment:
-  PUBLIC_URL: "${PUBLIC_URL}"
 packages:
   - name: default
     actions:
