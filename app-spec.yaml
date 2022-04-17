@@ -18,7 +18,7 @@ static_sites:
   envs:
   - key: FUNCTION_API_URL
     scope: BUILD_TIME
-    value: ${qrcode.PUBLIC_URL}
+    value: ${sample-functions-nodejs-qrcode2.PUBLIC_URL}
   github:
     branch: master
     deploy_on_push: true
